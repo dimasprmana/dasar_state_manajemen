@@ -41,3 +41,15 @@ dispose(): Method ini digunakan untuk membersihkan resource ketika widget tidak 
 4.Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 ![WhatsApp Image 2024-11-11 at 12 05 58_8e2a75e9](https://github.com/user-attachments/assets/95c9e4c5-2c31-4f99-9f03-87235e18c7fb)
 
+**Tugas Praktikum 3: State di Multiple Screens**
+-
+1.Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki sesuai dengan tujuan aplikasi tersebut dibuat.
+
+2.Berdasarkan Praktikum 3 yang telah Anda lakukan, jelaskan maksud dari gambar diagram berikut ini!
+
+3.Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
+
+4.Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke spreadsheet yang telah disediakan!
+
+![WhatsApp Image 2024-11-11 at 12 05 58_cb9d8043](https://github.com/user-attachments/assets/153d44af-9795-4791-9c5e-70945dff5c34)
+
