@@ -29,10 +29,15 @@ dispose(): Method ini digunakan untuk membersihkan resource ketika widget tidak 
 **Tugas Praktikum 2: 2: InheritedWidget**
 -
 1.Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki sesuai dengan tujuan aplikasi tersebut dibuat.
+
 2.Jelaskan mana yang dimaksud InheritedWidget pada langkah 1 tersebut! Mengapa yang digunakan InheritedNotifier?
+
 .answer : Pada langkah 1, yang dimaksud dengan InheritedWidget adalah sebuah widget yang memungkinkan data atau state untuk dibagikan ke seluruh widget tree tanpa harus melewati constructor dari setiap widgetInheritedWidget sangat berguna untuk mengelola state yang perlu diakses oleh banyak widget dalam aplikasi Flutter1.
+
 3.Jelaskan maksud dari method di langkah 3 pada praktikum tersebut! Mengapa dilakukan demikian?
+
 .Dengan menerima objek Plan sebagai parameter, PlanScreen dapat mengakses data di dalam plan yang mungkin berisi daftar tugas atau detail lain yang perlu ditampilkan di layar. Hal ini memungkinkan layar ini untuk menampilkan atau mengelola data plan sesuai kebutuhan.
+
 4.Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 ![WhatsApp Image 2024-11-11 at 12 05 58_8e2a75e9](https://github.com/user-attachments/assets/95c9e4c5-2c31-4f99-9f03-87235e18c7fb)
 
