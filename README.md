@@ -1,16 +1,16 @@
-# master_plan
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**NAMA: DIMAS PERMANA**
+-
+**NIM: 362358302004**
+-
+**KELAS: 2A TRPL**
+-
+**Tugas Praktikum 1: Dasar State dengan Model-View**
+-
+1.Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki.
+-
+2.Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?
+-
+.Penyederhanaan Impor: Ketika aplikasi semakin besar, mengimpor setiap file model satu per satu dapat menjadi rumit dan memperbanyak kode di setiap bagian yang membutuhkan model tersebut. Dengan menggunakan data_layer.dart, Anda hanya perlu satu baris impor di setiap tempat yang membutuhkan plan dan task, yakni import 'data_layer.dart';.
+-
+.Pemeliharaan Kode yang Lebih Mudah: Jika di masa depan Anda menambah atau menghapus model, Anda hanya perlu menyesuaikan di data_layer.dart tanpa harus mengubah setiap file yang mengimpor model-model ini.
+-
